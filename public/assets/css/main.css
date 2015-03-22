@@ -1,0 +1,42 @@
+#slideshow{
+	background: pink;
+	
+}
+.col-sm-12{
+	border:solid 1px blue;
+}
+#head{
+	color: white;
+	height: 90px;
+	background: #337AB7;	
+}
+#left{
+	height: 90px;
+	width: 80px;
+	background: gray;
+	border: solid 2px silver;
+}
+#content{
+	min-height: 200px;
+}
+#content_left{
+	background: blue;
+	border: solid 2px lavender;
+}
+#content_midle{
+	border: solid 2px lavender;
+	background: red;
+}
+#content_right{
+	border: solid 2px lavender;
+	background:black;
+}
+.col-sm-3{
+	border: solid 1px lavender;
+	border: solid 1px white;
+}
+#footer{
+	height:90%;
+	background: lavender;
+	border: solid 1px gray;
+}
